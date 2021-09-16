@@ -1,4 +1,4 @@
-# Bro_n_Bro-Wednesday
+# Bro_n_Bro Wednesday
 
 Bro_n_Bro is a highly secure, independent  stable validator, which is actively engaging in decentralized governance.
 
