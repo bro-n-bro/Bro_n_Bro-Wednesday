@@ -11,3 +11,4 @@ Once per week, on Wednesday, we want to make a free commission.
 
 Bro_n_Bro wants to split daily validator's reward between all delegators. The more you stake with us - the more you will recieve !
 
+# Table will be here
