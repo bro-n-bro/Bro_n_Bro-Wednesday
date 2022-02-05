@@ -1,4 +1,4 @@
-# bro-n-bro IBC lottery aka bro Wednesday
+# Bro_n_Bro IBC lottery aka Bro Wednesday
 
 ## TL;DR
 
@@ -6,7 +6,7 @@ Bro_n_Bro IBC lottery is a number of events aimed to distribute IBC tokens betwe
 
 ## Provisions
 
-The main goal is to distribute a part of **bro_n_bro** validator's week commission income between winners every week. All **bro-n-bro** validator delegators in all validated by **bro_n_bro** validator networks are automatically participating in the named lottery and have a chance to win a reward.
+The main goal is to distribute a part of **Bro_n_Bro** validator's week commission income between winners every week. All **Bro_n_Bro** validator delegators in all validated by **Bro_n_Bro** validator networks are automatically participating in the named lottery and have a chance to win a reward.
 
 #### The Game schema
 
@@ -40,11 +40,11 @@ The schema:
 
 #### The reward definition
 
-The prize pool will have semi-automatically updated on the Game monitors. The final definition will be available one day before distribution, right after transferring the prize pool to the distribution address. The set of participants will have fixed at the moment of lottery starts. The prize pool will be consist of all tokens of **bro-n-bro** validated networks. The distribution will be in the **Osmosis** network.
+The prize pool will have semi-automatically updated on the Game monitors. The final definition will be available one day before distribution, right after transferring the prize pool to the distribution address. The set of participants will have fixed at the moment of lottery starts. The prize pool will be consist of all tokens of **Bro_n_Bro** validated networks. The distribution will be in the **Osmosis** network.
 
 #### The winners definition
 
-All **bro-n-bro** delegators in all **bro-n-bro** validated networks are participating. The algorithm of defining winners is very easy:
+All **Bro_n_Bro** delegators in all **Bro_n_Bro** validated networks are participating. The algorithm of defining winners is very easy:
 
 1. For each network distribute the winning points for each address. 3 points to addresses for the top ten delegators by their delegated amount of tokens (descending sorting). 2 points for delegators from 11 to 20 and 1 point for the rest delegators.
 
