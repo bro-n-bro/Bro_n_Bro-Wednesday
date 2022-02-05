@@ -1,4 +1,4 @@
-# Bro_n_Bro IBC lottery aka Bro Wednesday
+# Bro_n_Bro IBC Lottery aka Bro Wednesday
 
 ## TL;DR
 
