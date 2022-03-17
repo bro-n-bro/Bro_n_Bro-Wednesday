@@ -6,7 +6,7 @@ Bro-n-bro IBC lottery is a number of events aimed to distribute IBC tokens betwe
 
 ## Provisions
 
-The main goal is to distribute a part of **bro-n-bro** validator's week commission income between winners every week. All **bro-n-bro** validator delegators in all validated by **bro-n-bro** validator networks are automatically participating in the named lottery and have a chance to win a reward.
+The main goal is to distribute a part of **bro-n-bro** validator's week commission income between winners every week. Not all `bro-n-bro` delegators are participating in that lottery. To avoid some kind of rush attacks was decided to cut addresses by median value divided to 1.618. The minimal amount for participation will be available on the game monitors.
 
 #### The Game schema
 
@@ -25,18 +25,18 @@ The schema:
 
 | Tour | Round | Date | Percents of the week income |
 | :---:| :---:| :---:| :---:|
-|1|1|2022-02-16|5|
-|1|2|2022-02-23|5|
-|1|3|2022-03-02|5|
-|2|1|2022-03-09|10|
-|2|2|2022-03-16|10|
-|2|3|2022-03-23|10|
-|3|1|2022-03-30|15|
-|3|2|2022-04-06|15|
-|3|3|2022-04-13|15|
-|4|1|2022-04-20|20|
-|4|2|2022-04-27|30|
-|4|3|2022-05-04|50|
+|1|1|2022-03-30|5|
+|1|2|2022-04-06|5|
+|1|3|2022-04-13|5|
+|2|1|2022-04-20|10|
+|2|2|2022-04-27|10|
+|2|3|2022-05-04|10|
+|3|1|2022-05-11|15|
+|3|2|2022-05-18|15|
+|3|3|2022-05-25|15|
+|4|1|2022-06-01|20|
+|4|2|2022-06-08|30|
+|4|3|2022-06-15|50|
 
 #### The reward definition
 
