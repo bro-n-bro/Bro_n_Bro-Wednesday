@@ -1,8 +1,8 @@
-# bro-n-bro IBC lottery aka bro Wednesday
+# Bro_n_Bro IBC Lottery aka Bro Wednesday
 
-## TLDR;
+## TL;DR
 
-Bro-n-bro IBC lottery is a number of events aimed to distribute IBC tokens between delegators **bro-n-bro** validator.
+**Bro_n_Bro** IBC lottery is a number of events aimed to distribute IBC tokens between delegators **Bro_n_Bro** Validator. IBC lottery is taking action on every Wednesday starting Feb 16th. Distribution planning is a systematic approach of 12 rounds divided into 4 tours (3 rounds per tour) with 10 winners per round. The winners of each round will be defined by random picking python script and will be blacklisted till the next tour, in this way giving other participants a chance to win. To raise your winning chances delegate your assets to **Bro_n_Bro** Validator from one Keplr account to different chains - the more you delegate, the higher chances to win! There is a list of rewards distribution for each round. No need to claim the reward, transactions will be proceeded automatically. No registration, KYC or any other actions required. The IBC lottery is created with a purpose of cosmos network growth.
 
 ## Provisions
 
@@ -40,11 +40,11 @@ The schema:
 
 #### The reward definition
 
-The prize pool will have semi-automatically updated on the Game monitors. The final definition will be available one day before distribution, right after transferring the prize pool to the distribution address. The set of participants will have fixed at the moment of lottery starts. The prize pool will be consist of all tokens of **bro-n-bro** validated networks. The distribution will be in the **Osmosis** network.
+The prize pool will have semi-automatically updated on the Game monitors. The final definition will be available one day before distribution, right after transferring the prize pool to the distribution address. The set of participants will have fixed at the moment of lottery starts. The prize pool will be consist of all tokens of **Bro_n_Bro** validated networks. The distribution will be in the **Osmosis** network.
 
 #### The winners definition
 
-All **bro-n-bro** delegators in all **bro-n-bro** validated networks are participating. The algorithm of defining winners is very easy:
+All **Bro_n_Bro** delegators in all **Bro_n_Bro** validated networks are participating. The algorithm of defining winners is very easy:
 
 1. For each network distribute the winning points for each address. 3 points to addresses for the top ten delegators by their delegated amount of tokens (descending sorting). 2 points for delegators from 11 to 20 and 1 point for the rest delegators.
 
