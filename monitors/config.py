@@ -38,7 +38,25 @@ BLACK_LIST = [
     'stars1y58hfnm90r4efhlydx0gavz57lvm7k6uhpzu20',
     'juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3',
     'gravity1xyqtlquzgtumv496rvjnh6543daa7mkpkvjwd4',
-    'juno1aeh8gqu9wr4u8ev6edlgfq03rcy6v5twfn0ja8'
+    'juno1aeh8gqu9wr4u8ev6edlgfq03rcy6v5twfn0ja8',
+    'bostrom1g07gj9ph0r2hjx6ffqn8vl38u4agd5mpqx9m7f',
+    'bostrom1pntx8ql2v7cqxu05etg8c4v0r2vz7qnq9uqmpy',
+    'bostrom1gxhs5wzam5rlgf6cs0lkme400ut64d4ncpfs2h',
+    'bostrom1tr3eyy9l480pxjk0ygudwpfus7j8pgdljn09jm',
+    'bostrom1ttd4h585vgy29gj0xe0p338drvw9w4m4hzwj9p',
+    'bostrom1t3222ju7ssu58xsm3m2xw445p94cqn2qrex3vy',
+    'bostrom1w4tvyvf3hhpcwv9d4axa8n0mmj5d6ypvpq5mj6',
+    'bostrom1s4wntr9selfaznc2ezjkwnwt2y0terx9tqpda3',
+    'bostrom1smtmk8fe3qhlwj3h7nynl6p42946qydzvgj9va',
+    'bostrom17a7xxqa4drnalvv7pkxrkxqer953fdke3ulwx4',
+    'bostrom1lvkzyfaqjn87cfl65a55nuqt8u6uhnyuvhp8kr',
+    'gravity13l0z8wcsak6z04xvn0m3ayacvp5ngde2ffgjyv',
+    'gravity1heyxccc9z7at2hj9ecuygdy5cws9ty99853u7e',
+    'stars1zc0xspsrjv24krgmslxza4zqmtva4qjnr0j0j2',
+    'stars1xuvqqtpav938pskxzslwv6x9xvs3yg456ud32f',
+    'stars18vf0hrxedgj9v8zf4pengmz4d4c3gzngkx5k9z',
+    'stars1jmvdlyau9h52arp6s6836k7m8u6xkuf7qgz32f',
+    'stars17a0xkhvnavt3fx5rfkrq89gkt0genewqjng0wv',
 ]
 
 TOKENS = {
