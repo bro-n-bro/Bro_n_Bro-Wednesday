@@ -20,6 +20,7 @@ NETWORKS = [
 BLACK_LIST = [
     'osmo14nzyt8wmx4g6zkeluelukamgsh5v4xgnnzn4j8',
     'osmo1cg79pj70mgl8xlum0rw5yy6enk9jszsrfyf8cx',
+    'osmo1tqdvlku97p88z5ndf3jz55vnccmzgs8jla375r',
     'osmo1s2a7rckcky6jmhncxwy0xtwf2ymg87puaj4z2h',
     'osmo1pvxhtre74l37p6y2rs2e8xyek75z7xlc7g2trt',
     'emoney1cpfn66xumevrx755m4qxgezw9j5s86qkan5ch8',
