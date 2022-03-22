@@ -5,7 +5,7 @@ POSTGRES_DB_HOST = ''
 POSTGRES_DB_PASSWORD = ''
 
 WIN_PERCENT = 0.05
-PRIZE_POOL_ADDRESS = 'osmo1lyz7awgu2q3hjd0uwsuys9jg2gqalqlky0xa4p'
+PRIZE_POOL_ADDRESS = 'osmo18qe8zvyyd5scez4pgnzgd5nwt3puallv8c72na'
 
 NETWORKS = [
     ('http://136.243.176.155:1317', 'osmovaloper13tk45jkxgf7w0nxquup3suwaz2tx483xe832ge', 'osmosis', 'uosmo'),
