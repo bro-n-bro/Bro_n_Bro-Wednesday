@@ -46,7 +46,7 @@ def get_result_table(networks: list, black_list: list = []):
         network_df, median = get_delegations(network[0], network[1], network[2], black_list)
         result_df = pd.merge(result_df, network_df, on='address', how='outer')
         if network[2] == 'bostrom':
-            medians.append((median / 1_000_000, 'mboot'))
+            medians.append((median, 'boot'))
         else:
             medians.append((median / 1_000_000, network[3][1:]))
     result_df['multiplicator'] = result_df.count(axis=1) - 1
