@@ -42,6 +42,28 @@ The schema:
 
 The prize pool will have semi-automatically updated on the Game monitors. The final definition will be available one day before distribution, right after transferring the prize pool to the distribution address. The set of participants will have fixed at the moment of lottery starts. The prize pool will be consist of all tokens of **Bro_n_Bro** validated networks. The distribution will be in the **Osmosis** network.
 
+#### The minimum delegation amount definition
+
+The minimum delegation amount for each network is defined to avoid an attack on the lottery. This is a dynamic value that is calculated every 15 minutes with all other values.  The calculations are easy for understanding: the median of all delegations in each network is calculated and then divided by 1.618 (golden ratio). The calculated value is the minimum amount of delegation for participation. 
+
+For instance. Let's define a network with token denom `token`. In that network, the bro_n_bro validator has 9 delegators with delegations in table below:
+
+| Delegator | Delegation | Denom |
+| :---| ---:| :---|
+|networkaddress1|100|token|
+|networkaddress2|98|token|
+|networkaddress3|50|token|
+|networkaddress4|45|token|
+|***networkaddress5***|***45***|***token***|
+|networkaddress6|45|token|
+|networkaddress7|29|token|
+|networkaddress8| 1|token|
+|networkaddress9| 1|token|
+
+The median (bolded address) is 45 tokens. This way the minimum amount of delegations for the network is `45 / 1.618 = 27.812`.
+
+That means all delegators with delegations less than the calculated amount are excluded from the lottery. But, as said before, this value is dynamic, so each participant should follow this value if he wants to win a prize.
+
 #### The winners definition
 
 All **Bro_n_Bro** delegators in all **Bro_n_Bro** validated networks are participating. The algorithm of defining winners is very easy:
