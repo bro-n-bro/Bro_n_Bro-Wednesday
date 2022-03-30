@@ -121,3 +121,18 @@ To give a chance for all delegators the blacklist mechanics are provided. Beside
 ## Conclusion
 
 The IBC lottery is a great chance to win some set of tokens without any additional actions, KYC, or whatever from the participants. It should help advanced cosmonauts and newcomers understand how IBC works and involve them in ecosystem networks life.
+
+## Winners. Tour 1 Round 1
+
+| address                                     |    ungm |   ujuno |   utick |    ustars |   ugraviton |      boot |   uosmo |
+|:--------------------------------------------|--------:|--------:|--------:|----------:|------------:|----------:|--------:|
+| osmo1ks2z0xl2dczwlavfyk24v36xhl9jx3xgqwh507 | 4818590 | 3672112 |   51212 | 158999845 |    14785069 | 132274793 | 3725373 |
+| osmo10lp0ehzrmf3gq2vjumk4vw452u44tjhy7ts2nq | 2409295 | 1836056 |   25606 |  79499922 |     7392534 |  66137397 | 1862686 |
+| osmo1xppn98w0gg6wl0q2g2nasmkqlf2elwpkh96gzk | 1606196 | 1224037 |   17070 |  52999948 |     4928356 |  44091598 | 1241791 |
+| osmo1ryacht55dn8nu0qajngptmfve76lmc7cuz6fvs | 1204647 |  918028 |   12803 |  39749961 |     3696267 |  33068698 |  931343 |
+| osmo1dsrt9h4wjqwuv9wc02jn05qmr60thap8l9gqms |  963718 |  734422 |   10242 |  31799969 |     2957013 |  26454958 |  745074 |
+| osmo1k7dah7ptpu4r7mfu5f2q6uedxsjqc2xtg24zsu |  803098 |  612018 |    8535 |  26499974 |     2464178 |  22045799 |  620895 |
+| osmo1m2wjpcc9lvspndvuwnk3d9zml9s76v7vd679qz |  688370 |  524587 |    7316 |  22714263 |     2112152 |  18896399 |  532196 |
+| osmo1pmaltcu0x97x8j5klc8xluaapkzcvztcczt4nm |  602323 |  459014 |    6401 |  19874980 |     1848133 |  16534349 |  465671 |
+| osmo1a40llxlvkr7fxlff77k7q6nwrl7ec8a0yfqxwm |  535398 |  408012 |    5690 |  17666649 |     1642785 |  14697199 |  413930 |
+| osmo1yfq24dsvn45g8tt8xhd9tlshr4638y5s2x5quc |  481859 |  367211 |    5121 |  15899984 |     1478506 |  13227479 |  372537 |
