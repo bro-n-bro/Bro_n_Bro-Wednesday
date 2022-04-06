@@ -122,6 +122,21 @@ To give a chance for all delegators the blacklist mechanics are provided. Beside
 
 The IBC lottery is a great chance to win some set of tokens without any additional actions, KYC, or whatever from the participants. It should help advanced cosmonauts and newcomers understand how IBC works and involve them in ecosystem networks life.
 
+## Winners. Tour 1 Round 2
+
+| address                                     |    ungm |   ujuno |   utick |   ustars |   ugraviton |      boot |   uosmo |
+|:--------------------------------------------|--------:|--------:|--------:|---------:|------------:|----------:|--------:|
+| osmo1vghct4lm8hp5ntxtm0l0g5evz2vxqp7m28fmfh | 4757650 | 3755589 |   52579 | 83322686 |    14926418 | 141088988 | 3762076 |
+| osmo1a6kfadt24cgm9fy8z564jrglc27vtfz978j8ym | 2378825 | 1877794 |   26289 | 41661343 |     7463209 |  70544494 | 1881038 |
+| osmo1pyrpuy567yu9tze5xrwttacfq9r76xlk7x7yf6 | 1585883 | 1251863 |   17526 | 27774229 |     4975472 |  47029662 | 1254025 |
+| osmo1h4w509ewf0wh6m3d9fqyak9z45m9lrqsy5r63n | 1189412 |  938897 |   13144 | 20830671 |     3731604 |  35272247 |  940519 |
+| osmo1ez0jlywwr8ysfmkp9tmse4q4v32w3m3awq7xc5 |  951530 |  751117 |   10515 | 16664537 |     2985283 |  28217797 |  752415 |
+| osmo1lvwg06eawdltptpt8jt3wwuy7x0a4dl9nh3uqf |  792941 |  625931 |    8763 | 13887114 |     2487736 |  23514831 |  627012 |
+| osmo1ykf3dvdumzarls3ugl76jqu3d6xcg295lymhtq |  679664 |  536512 |    7511 | 11903241 |     2132345 |  20155569 |  537439 |
+| osmo1ankp34c85s4340jteh8y8hryl4qz76nw3w08z3 |  594706 |  469448 |    6572 | 10415335 |     1865802 |  17636123 |  470259 |
+| osmo10vtw8cc7gfu662ckajmgldwf3es37fqlxvcaat |  528627 |  417287 |    5842 |  9258076 |     1658490 |  15676554 |  418008 |
+| osmo1fvfh8py05qqs5x3vz258gv68c3afh3y7uj5xml |  475765 |  375558 |    5257 |  8332268 |     1492641 |  14108898 |  376207 |
+
 ## Winners. Tour 1 Round 1
 
 | address                                     |    ungm |   ujuno |   utick |    ustars |   ugraviton |      boot |   uosmo |
