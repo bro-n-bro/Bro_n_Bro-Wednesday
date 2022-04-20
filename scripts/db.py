@@ -8,7 +8,7 @@ from sqlalchemy import create_engine
 from osmopy._wallet import seed_to_privkey, privkey_to_address
 from osmopy import Transaction
 from config import GRAPHQL_API, HEADERS, POSTGRES_USER_NAME, POSTGRES_DB_PASSWORD, POSTGRES_DB_HOST, POSTGRES_DB_PORT, \
-    POSTGRES_DB_NAME, OSMO_LCD, DISTRIBUTION_SHARES
+    POSTGRES_DB_NAME, OSMO_LCD, DISTRIBUTION_SHARES, TOKENS
 
 
 def run_query(query):  # A simple function to use requests.post to make the API call. Note the json= section.
@@ -32,7 +32,12 @@ def get_sample() -> list:
 
 def get_winners():
     sample = get_sample()
-    return random.choices(sample, k=10)
+    result = []
+    for i in range(10):
+        temp = random.choices(sample, k=1)[0]
+        sample = [x for x in sample if x != temp]
+        result.append(temp)
+    return result
 
 
 def write_winners_to_db(winners: list):
@@ -80,6 +85,17 @@ def get_sequence(seed):
     return int(result)
 
 
+def get_winners_table(winners, distribution_df):
+    result_df = pd.DataFrame()
+    for winner in winners:
+        df = distribution_df[distribution_df['address'] == winner]
+        df = df.pivot(index='address', columns='denom', values='payout')
+        result_df = result_df.append(df)
+    columns = list(result_df.columns)
+    columns = [TOKENS[x] for x in columns]
+    result_df.columns = columns
+    print(result_df.to_string())
+    result_df.to_markdown('./result.df')
 
 
 
