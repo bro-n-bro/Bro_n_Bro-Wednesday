@@ -122,6 +122,21 @@ To give a chance for all delegators the blacklist mechanics are provided. Beside
 
 The IBC lottery is a great chance to win some set of tokens without any additional actions, KYC, or whatever from the participants. It should help advanced cosmonauts and newcomers understand how IBC works and involve them in ecosystem networks life.
 
+## Winners. Tour 2 Round 1
+
+| address                                     |     ungm |   ujuno |   utick |    ustars |   ugraviton |      boot |   uosmo |
+|:--------------------------------------------|---------:|--------:|--------:|----------:|------------:|----------:|--------:|
+| osmo10x2t27pthskehz5tefe3tsghla55470h3mp8wp | 10129848 | 7845767 |  114718 | 179564255 |    27162808 | 298801114 | 7677107 |
+| osmo1zv35taypuhgeqxmv38hucfcshf8uyfwcy4vhgm |  5064924 | 3922883 |   57359 |  89782128 |    13581404 | 149400558 | 3838553 |
+| osmo1sah5fvjft7e60ufwahkv3m73r2uwm6qj4d3sc5 |  3376616 | 2615255 |   38239 |  59854752 |     9054269 |  99600372 | 2559035 |
+| osmo1jmvdlyau9h52arp6s6836k7m8u6xkuf7u0xuh2 |  2532462 | 1961441 |   28679 |  44891064 |     6790702 |  74700279 | 1919276 |
+| osmo1ffve0zx389ffl80ae9t8jmghcjuzdlqrl368pc |  2025969 | 1569153 |   22943 |  35912851 |     5432561 |  59760223 | 1535421 |
+| osmo1plxajyqwe97ghd4em2xgd39wzvr27aelnn2yfj |  1688308 | 1307627 |   19119 |  29927376 |     4527134 |  49800186 | 1279517 |
+| osmo1sug63zszkvas04lwhfckmqkkrs4u4lcsjy9m2g |  1447121 | 1120823 |   16388 |  25652036 |     3880401 |  42685873 | 1096729 |
+| osmo1unq30l8r6cu5typqf8s3t99ux5zw9sa9me94tt |  1266231 |  980720 |   14339 |  22445532 |     3395351 |  37350139 |  959638 |
+| osmo1z63r2yzl5gztm03zewl3l3mrlh65gcjsakezdn |  1125538 |  871751 |   12746 |  19951584 |     3018089 |  33200124 |  853011 |
+| osmo1js2p0vzlwh4r0wruz8hy29m73vn3jejpw33e2g |  1012984 |  784576 |   11471 |  17956425 |     2716280 |  29880111 |  767710 |
+
 ## Winners. Tour 1 Round 3
 
 | address                                     |    ungm |   ujuno |   utick |   ustars |   ugraviton |      boot |   uosmo |
