@@ -122,6 +122,21 @@ To give a chance for all delegators the blacklist mechanics are provided. Beside
 
 The IBC lottery is a great chance to win some set of tokens without any additional actions, KYC, or whatever from the participants. It should help advanced cosmonauts and newcomers understand how IBC works and involve them in ecosystem networks life.
 
+## Winners. Tour 2 Round 2
+
+| address                                     |    ungm |   ujuno |   utick |    ustars |   ugraviton |      boot |   uosmo |
+|:--------------------------------------------|--------:|--------:|--------:|----------:|------------:|----------:|--------:|
+| osmo167mlc0ya0hzp86s0h735cnjlf6re0nxj67wucp | 9975527 | 7778851 |  113693 | 175544067 |    22655761 | 304586796 | 7905857 |
+| osmo1vtlq7spnshlmpu6ev0cdemcqpf6t673m53lu5v | 4987763 | 3889425 |   56846 |  87772034 |    11327880 | 152293398 | 3952928 |
+| osmo1s2a7rckcky6jmhncxwy0xtwf2ymg87puaj4z2h | 3325175 | 2592950 |   37897 |  58514689 |     7551920 | 101528932 | 2635285 |
+| osmo1mdcmajvfgs0cx08enmj4zv6kp2vge8jcvvvd43 | 2493881 | 1944712 |   28423 |  43886017 |     5663940 |  76146699 | 1976464 |
+| osmo1azl8d4w3vmxe4pv80xw2fwyphzr23kqzp2k796 | 1995105 | 1555770 |   22738 |  35108813 |     4531152 |  60917359 | 1581171 |
+| osmo1xxhn7zrdjgmr8lvkxn3mvgaul7zv083rqus5kp | 1662587 | 1296475 |   18948 |  29257344 |     3775960 |  50764466 | 1317642 |
+| osmo1t8c83d9t44t829pzjq9uxc9aq5kzf64xkqjdhv | 1425075 | 1111264 |   16241 |  25077724 |     3236537 |  43512399 | 1129408 |
+| osmo1sxk4st7m2v6tg27h7fhsjutwspmjdlfmdv4mkl | 1246940 |  972356 |   14211 |  21943008 |     2831970 |  38073349 |  988232 |
+| osmo13nzzsqenw5r98x7lpwxy2f5l5mq2gncgetfwpl | 1108391 |  864316 |   12632 |  19504896 |     2517306 |  33842977 |  878428 |
+| osmo1tzk22rvpcplurat85v6yzsluzm6ajl0n7p3yf2 |  997552 |  777885 |   11369 |  17554406 |     2265576 |  30458679 |  790585 |
+
 ## Winners. Tour 2 Round 1
 
 | address                                     |     ungm |   ujuno |   utick |    ustars |   ugraviton |      boot |   uosmo |
