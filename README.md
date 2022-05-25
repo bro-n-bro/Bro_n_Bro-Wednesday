@@ -122,6 +122,21 @@ To give a chance for all delegators the blacklist mechanics are provided. Beside
 
 The IBC lottery is a great chance to win some set of tokens without any additional actions, KYC, or whatever from the participants. It should help advanced cosmonauts and newcomers understand how IBC works and involve them in ecosystem networks life.
 
+## Winners. Tour 3 Round 3
+
+| address                                     |     ungm |    ujuno |   utick |    ustars |   ugraviton |      boot |    uosmo |
+|:--------------------------------------------|---------:|---------:|--------:|----------:|------------:|----------:|---------:|
+| osmo1e2qur2pmzn5jtderg3p7hwck53ert72tv9uk2p | 17000528 | 10099121 |  240700 | 911481370 |    37671458 | 603937566 | 14587902 |
+| osmo1tz9jzsnuxrdp55f6wnf83ettjlkt8xd3uf6ar5 |  8500264 |  5049560 |  120350 | 455740687 |    18835729 | 301968784 |  7293951 |
+| osmo1gg7z4cvgghdl30nhjhp388jvfp68rxlm8fs2pu |  5666842 |  3366373 |   80233 | 303827124 |    12557152 | 201312522 |  4862634 |
+| osmo1z4sn4t3qkqt5lukv3pwxgrqdzjt23lwy0frs6a |  4250132 |  2524780 |   60175 | 227870343 |     9417864 | 150984392 |  3646975 |
+| osmo134h2clsm8jeq7ku9v0ecplr8t8pnjrtcquvqny |  3400105 |  2019824 |   48140 | 182296274 |     7534291 | 120787513 |  2917580 |
+| osmo17f9wn6hmcfph56kczul88ejcmx0gjmce2xjek2 |  2833421 |  1683186 |   40116 | 151913562 |     6278576 | 100656261 |  2431317 |
+| osmo1x24e6ust4dsdtewuh4vcxrqddgjfahz33uukmv |  2428646 |  1442731 |   34385 | 130211624 |     5381636 |  86276795 |  2083986 |
+| osmo1s8ftvy9crkta5yxr3vh98qkkn23u644akdqsae |  2125066 |  1262390 |   30087 | 113935171 |     4708932 |  75492196 |  1823487 |
+| osmo1gmsvfd4jczze0dhu49ajng3h7q9kmcntgnhhgm |  1888947 |  1122124 |   26744 | 101275708 |     4185717 |  67104174 |  1620878 |
+| osmo13sv4qp32xwqathqssdtr228eg92jz3qr8kh5fg |  1700052 |  1009912 |   24070 |  91148137 |     3767145 |  60393756 |  1458790 |
+
 ## Winners. Tour 3 Round 2
 
 | address                                     |     ungm |   ujuno |   utick |    ustars |   ugraviton |      boot |    uosmo |
