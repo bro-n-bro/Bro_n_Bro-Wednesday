@@ -122,6 +122,21 @@ To give a chance for all delegators the blacklist mechanics are provided. Beside
 
 The IBC lottery is a great chance to win some set of tokens without any additional actions, KYC, or whatever from the participants. It should help advanced cosmonauts and newcomers understand how IBC works and involve them in ecosystem networks life.
 
+## Winners. Tour 4 Round 3
+
+| address                                     |     ungm |    ujuno |   utick |     ustars |   ugraviton |       boot |    uosmo |
+|:--------------------------------------------|---------:|---------:|--------:|-----------:|------------:|-----------:|---------:|
+| osmo1uncwfa0p5sq2uaf8xazd9ndrrrhk8rhztxkchc | 51340605 | 28305190 |  716977 | 1079209247 |   114294788 | 1124705333 | 52149252 |
+| osmo1679yrs8dmska7wcsawgy2m25kwucm3z0uxyaa3 | 25670303 | 14152595 |  358488 |  539604625 |    57147394 |  562352669 | 26074626 |
+| osmo1fvfh8py05qqs5x3vz258gv68c3afh3y7uj5xml | 17113535 |  9435063 |  238992 |  359736417 |    38098262 |  374901779 | 17383084 |
+| osmo1ws5my28ys2d3mmajn2c2r72qnyfqxa3leyf4qz | 12835151 |  7076297 |  179244 |  269802312 |    28573697 |  281176334 | 13037313 |
+| osmo1hjm560zedyflcgc5w03m5w7cekc7hfx2f8d866 | 10268121 |  5661038 |  143395 |  215841850 |    22858957 |  224941067 | 10429850 |
+| osmo1atqpalkryh98ll5uqsgl6rge83730lac4def2h |  8556767 |  4717531 |  119496 |  179868208 |    19049131 |  187450889 |  8691542 |
+| osmo1jlu5u2sj0afddmcj7lxfy0ng466s8l2qx69fae |  7334372 |  4043598 |  102425 |  154172750 |    16327826 |  160672191 |  7449893 |
+| osmo18ly3q3wdnpc98xf9gsuk2yhftnqnztv5ygj3d0 |  6417575 |  3538148 |   89622 |  134901156 |    14286848 |  140588167 |  6518656 |
+| osmo1jextv724kkue3pt3me2zyyun9jaj75m39drtn5 |  5704511 |  3145021 |   79664 |  119912139 |    12699420 |  124967259 |  5794361 |
+| osmo1hc0ltysu4n0x0hz59sk9zpwk55y4wrmwmg7q7p |  5134060 |  2830519 |   71697 |  107920925 |    11429478 |  112470533 |  5214925 |
+
 ## Winners. Tour 4 Round 2
 
 | address                                     |     ungm |    ujuno |   utick |    ustars |   ugraviton |      boot |    uosmo |
